@@ -1,0 +1,10 @@
+C:\Users\erbas\Desktop\VS Projeler\SinemaBufe_Satis\SinemaBufe_Satis\bin\Debug\SinemaBufe_Satis.exe.config
+C:\Users\erbas\Desktop\VS Projeler\SinemaBufe_Satis\SinemaBufe_Satis\bin\Debug\SinemaBufe_Satis.exe
+C:\Users\erbas\Desktop\VS Projeler\SinemaBufe_Satis\SinemaBufe_Satis\bin\Debug\SinemaBufe_Satis.pdb
+C:\Users\erbas\Desktop\VS Projeler\SinemaBufe_Satis\SinemaBufe_Satis\obj\Debug\SinemaBufe_Satis.csproj.AssemblyReference.cache
+C:\Users\erbas\Desktop\VS Projeler\SinemaBufe_Satis\SinemaBufe_Satis\obj\Debug\SinemaBufe_Satis.Form1.resources
+C:\Users\erbas\Desktop\VS Projeler\SinemaBufe_Satis\SinemaBufe_Satis\obj\Debug\SinemaBufe_Satis.Properties.Resources.resources
+C:\Users\erbas\Desktop\VS Projeler\SinemaBufe_Satis\SinemaBufe_Satis\obj\Debug\SinemaBufe_Satis.csproj.GenerateResource.cache
+C:\Users\erbas\Desktop\VS Projeler\SinemaBufe_Satis\SinemaBufe_Satis\obj\Debug\SinemaBufe_Satis.csproj.CoreCompileInputs.cache
+C:\Users\erbas\Desktop\VS Projeler\SinemaBufe_Satis\SinemaBufe_Satis\obj\Debug\SinemaBufe_Satis.exe
+C:\Users\erbas\Desktop\VS Projeler\SinemaBufe_Satis\SinemaBufe_Satis\obj\Debug\SinemaBufe_Satis.pdb
